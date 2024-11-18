@@ -3,7 +3,7 @@ title: 我的第一篇文章
 subtitle:
 date: 2024-11-11T13:36:01+08:00
 slug: 583bc6c
-draft: true
+draft: false
 author:
   name:
   link:
